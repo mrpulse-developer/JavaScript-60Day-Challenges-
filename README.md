@@ -1,6 +1,3 @@
-# JavaScript-60Day-Challenges-
-A 60-day JavaScript learning challenge with daily exercises, mini-projects, and hands-on practice to master core JS concepts step by step.
-
 # JavaScript 60-Day Challenge
 
 Welcome to the **JavaScript 60-Day Challenge**! This repository is designed to help you master **core JavaScript concepts** through daily exercises, mini-projects, and hands-on coding practice. The challenge is structured in a step-by-step manner so that beginners can build a strong foundation, and intermediates can sharpen their skills.
